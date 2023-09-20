@@ -93,6 +93,7 @@
                   <include>org.antlr:stringtemplate</include>
 
                   <include>com.lmax:disruptor</include>
+                  <include>com.google.guava:guava</include>
                   <include>com.github.davidmoten:guava-mini</include>
                   <include>com.github.davidmoten:hilbert-curve</include>
                   <include>com.github.ben-manes.caffeine:caffeine</include>
